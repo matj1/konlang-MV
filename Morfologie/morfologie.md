@@ -21,9 +21,11 @@ jméno nachází (já, ty), a entity, které má autor věty na mysli (to). V to
 Význam jmen se dá měnit příponami, ty plní funkci, kterou plní předložky a pády v indoevropských jazycích. Výsledek připojení
 přípony ke jménu je jméno, jde tedy k němu připojit další přípona.
 
-Přípona ovlivňující více slov je *příložka*, je to samostatné slovo a je před ní opovídající *slovo pro omezení významu příložky*. Je to však stále přípona
-
 Přípona může být tvořena z odpovídajícího jména.
+
+## Uzavření
+
+Série jmen začínající *slovem pro započetí uzavření* a končící *slovem pro ukončení uzavření* je uzavření. Každé jméno v uzavření zužuje jeho význam.
 
 # Slovesa
 

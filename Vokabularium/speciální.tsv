@@ -1,1 +1,2 @@
-pak	slovo pro omezení významu příložky. Páruje se s příložkou, daná příložka ovlivňuje právě to mezi ní a tímto slovem.
+pak	slovo pro započetí uzavření. Páruje se se slovem pro ukončení uzavření, tato slova s tím, co je mezi nimi, se chovají jako jedno jméno.
+ka	slovo pro ukončení uzavření. Páruje se se slovem pro započetí uzavření, tato slova s tím, co je mezi nimi, se chovají jako jedno jméno.
